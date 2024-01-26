@@ -1,0 +1,70 @@
+body {
+    background-image:url(Subcarpeta/5-Star.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contenedor{
+    display: flex;
+}
+
+
+
+  .imagen1{
+width: 275px;
+margin-left: 150px;
+margin-right: 35px;
+  }
+
+  .imagen2{
+    width: 275px;
+    margin-left: 35px;
+  }
+
+  .imagen3{
+    width: 275px;
+    margin-left: 35px;
+  }
+
+  .imagen4{
+    width: 275px;
+    margin-left: 35px;
+    margin-right: 25px
+  }
+
+
+  #text1 {
+    position: absolute;
+    top: 500px;
+    left: 170px;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+  }
+  
+  #text2 {
+    position: absolute;
+    top: 500px;
+    left: 565px;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+  }
+
+  #text3 {
+    position: absolute;
+    top: 500px;
+    left: 855px;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+  }
+
+  #text4 {
+    position: absolute;
+    top: 500px;
+    left: 1125px;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+  }
+
+
+
+  
+  
